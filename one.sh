@@ -1,10 +1,7 @@
 #!/bin/bash
-<<<<<<< HEAD
-
+whoami
 date
 echo dowolny komunikat
 echo dowolny komunikat
-=======
-whoami
->>>>>>> master
+echo dowolny komunikat
 
